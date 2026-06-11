@@ -1,0 +1,653 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LGS//Formula E Auto-Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Formula E
+X-WR-CALDESC:ABB FIA Formula E World Championship (season 2025-2026) - auto-synced daily from the official Formula E API\, auto-rolls to new seasons
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:2025-2026-r1-s-o-paulo-e-prix-free-practice-2@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20251206T101000Z
+DTEND:20251206T111000Z
+SUMMARY:FE São Paulo E-Prix - Free Practice 2
+LOCATION:São Paulo
+DESCRIPTION:Round 1\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r1-s-o-paulo-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20251206T124000Z
+DTEND:20251206T135400Z
+SUMMARY:FE São Paulo E-Prix - Qualifying
+LOCATION:São Paulo
+DESCRIPTION:Round 1\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r1-s-o-paulo-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20251206T170500Z
+DTEND:20251206T180000Z
+SUMMARY:🏁 FE São Paulo E-Prix - Race
+LOCATION:São Paulo
+DESCRIPTION:Round 1\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:São Paulo E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r2-mexico-city-e-prix-free-practice-1@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260109T220000Z
+DTEND:20260109T224000Z
+SUMMARY:FE Mexico City E-Prix - Free Practice 1
+LOCATION:Mexico City
+DESCRIPTION:Round 2\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r2-mexico-city-e-prix-free-practice-2@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260110T133000Z
+DTEND:20260110T141000Z
+SUMMARY:FE Mexico City E-Prix - Free Practice 2
+LOCATION:Mexico City
+DESCRIPTION:Round 2\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r2-mexico-city-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260110T154000Z
+DTEND:20260110T164800Z
+SUMMARY:FE Mexico City E-Prix - Qualifying
+LOCATION:Mexico City
+DESCRIPTION:Round 2\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r2-mexico-city-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260110T200500Z
+DTEND:20260110T210000Z
+SUMMARY:🏁 FE Mexico City E-Prix - Race
+LOCATION:Mexico City
+DESCRIPTION:Round 2\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mexico City E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r3-miami-e-prix-rookie-free-practice@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260130T193000Z
+DTEND:20260130T201000Z
+SUMMARY:FE Miami E-Prix - Rookie Free Practice
+LOCATION:Miami
+DESCRIPTION:Round 3\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r3-miami-e-prix-free-practice-1@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260130T220000Z
+DTEND:20260130T224000Z
+SUMMARY:FE Miami E-Prix - Free Practice 1
+LOCATION:Miami
+DESCRIPTION:Round 3\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r3-miami-e-prix-free-practice-2@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260131T123000Z
+DTEND:20260131T131000Z
+SUMMARY:FE Miami E-Prix - Free Practice 2
+LOCATION:Miami
+DESCRIPTION:Round 3\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r3-miami-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260131T144000Z
+DTEND:20260131T154800Z
+SUMMARY:FE Miami E-Prix - Qualifying
+LOCATION:Miami
+DESCRIPTION:Round 3\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r3-miami-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260131T190500Z
+DTEND:20260131T200000Z
+SUMMARY:🏁 FE Miami E-Prix - Race
+LOCATION:Miami
+DESCRIPTION:Round 3\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Miami E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r4-jeddah-e-prix-free-practice-1@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260212T170000Z
+DTEND:20260212T174000Z
+SUMMARY:FE Jeddah E-Prix - Free Practice 1
+LOCATION:Jeddah
+DESCRIPTION:Round 4\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r4-jeddah-e-prix-free-practice-2@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260213T103000Z
+DTEND:20260213T111000Z
+SUMMARY:FE Jeddah E-Prix - Free Practice 2
+LOCATION:Jeddah
+DESCRIPTION:Round 4\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r4-jeddah-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260213T124000Z
+DTEND:20260213T134800Z
+SUMMARY:FE Jeddah E-Prix - Qualifying
+LOCATION:Jeddah
+DESCRIPTION:Round 4\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r4-jeddah-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260213T170500Z
+DTEND:20260213T180000Z
+SUMMARY:🏁 FE Jeddah E-Prix - Race
+LOCATION:Jeddah
+DESCRIPTION:Round 4\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jeddah E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r5-jeddah-e-prix-free-practice-3@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260214T103000Z
+DTEND:20260214T111000Z
+SUMMARY:FE Jeddah E-Prix - Free Practice 3
+LOCATION:Jeddah
+DESCRIPTION:Round 5\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r5-jeddah-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260214T124000Z
+DTEND:20260214T134800Z
+SUMMARY:FE Jeddah E-Prix - Qualifying
+LOCATION:Jeddah
+DESCRIPTION:Round 5\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r5-jeddah-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260214T170500Z
+DTEND:20260214T180000Z
+SUMMARY:🏁 FE Jeddah E-Prix - Race
+LOCATION:Jeddah
+DESCRIPTION:Round 5\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jeddah E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r6-madrid-e-prix-free-practice-1@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260320T153000Z
+DTEND:20260320T161000Z
+SUMMARY:FE Madrid E-Prix - Free Practice 1
+LOCATION:Madrid
+DESCRIPTION:Round 6\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r6-madrid-e-prix-free-practice-2@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260321T073000Z
+DTEND:20260321T081000Z
+SUMMARY:FE Madrid E-Prix - Free Practice 2
+LOCATION:Madrid
+DESCRIPTION:Round 6\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r6-madrid-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260321T094000Z
+DTEND:20260321T104800Z
+SUMMARY:FE Madrid E-Prix - Qualifying
+LOCATION:Madrid
+DESCRIPTION:Round 6\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r6-madrid-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260321T140500Z
+DTEND:20260321T150000Z
+SUMMARY:🏁 FE Madrid E-Prix - Race
+LOCATION:Madrid
+DESCRIPTION:Round 6\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Madrid E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r7-berlin-e-prix-free-practice-1@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260501T140000Z
+DTEND:20260501T144000Z
+SUMMARY:FE Berlin E-Prix - Free Practice 1
+LOCATION:Berlin
+DESCRIPTION:Round 7\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r7-berlin-e-prix-free-practice-2@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260502T073000Z
+DTEND:20260502T081000Z
+SUMMARY:FE Berlin E-Prix - Free Practice 2
+LOCATION:Berlin
+DESCRIPTION:Round 7\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r7-berlin-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260502T094000Z
+DTEND:20260502T104800Z
+SUMMARY:FE Berlin E-Prix - Qualifying
+LOCATION:Berlin
+DESCRIPTION:Round 7\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r7-berlin-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260502T140500Z
+DTEND:20260502T150000Z
+SUMMARY:🏁 FE Berlin E-Prix - Race
+LOCATION:Berlin
+DESCRIPTION:Round 7\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Berlin E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r8-berlin-e-prix-free-practice-3@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260503T073000Z
+DTEND:20260503T081000Z
+SUMMARY:FE Berlin E-Prix - Free Practice 3
+LOCATION:Berlin
+DESCRIPTION:Round 8\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r8-berlin-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260503T094000Z
+DTEND:20260503T104800Z
+SUMMARY:FE Berlin E-Prix - Qualifying
+LOCATION:Berlin
+DESCRIPTION:Round 8\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r8-berlin-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260503T140500Z
+DTEND:20260503T150000Z
+SUMMARY:🏁 FE Berlin E-Prix - Race
+LOCATION:Berlin
+DESCRIPTION:Round 8\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Berlin E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r9-monaco-e-prix-free-practice-1@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260516T053000Z
+DTEND:20260516T060000Z
+SUMMARY:FE Monaco E-Prix - Free Practice 1
+LOCATION:Monaco
+DESCRIPTION:Round 9\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r9-monaco-e-prix-free-practice-2@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260516T071000Z
+DTEND:20260516T074000Z
+SUMMARY:FE Monaco E-Prix - Free Practice 2
+LOCATION:Monaco
+DESCRIPTION:Round 9\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r9-monaco-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260516T084000Z
+DTEND:20260516T094800Z
+SUMMARY:FE Monaco E-Prix - Qualifying
+LOCATION:Monaco
+DESCRIPTION:Round 9\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r9-monaco-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260516T130500Z
+DTEND:20260516T140000Z
+SUMMARY:🏁 FE Monaco E-Prix - Race
+LOCATION:Monaco
+DESCRIPTION:Round 9\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Monaco E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r10-monaco-e-prix-free-practice-3@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260517T063000Z
+DTEND:20260517T071000Z
+SUMMARY:FE Monaco E-Prix - Free Practice 3
+LOCATION:Monaco
+DESCRIPTION:Round 10\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r10-monaco-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260517T084000Z
+DTEND:20260517T094800Z
+SUMMARY:FE Monaco E-Prix - Qualifying
+LOCATION:Monaco
+DESCRIPTION:Round 10\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r10-monaco-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260517T130500Z
+DTEND:20260517T140000Z
+SUMMARY:🏁 FE Monaco E-Prix - Race
+LOCATION:Monaco
+DESCRIPTION:Round 10\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Monaco E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r11-sanya-e-prix-free-practice-1@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260619T083000Z
+DTEND:20260619T091000Z
+SUMMARY:FE Sanya E-Prix - Free Practice 1
+LOCATION:Sanya
+DESCRIPTION:Round 11\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r11-sanya-e-prix-free-practice-2@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260620T003000Z
+DTEND:20260620T011000Z
+SUMMARY:FE Sanya E-Prix - Free Practice 2
+LOCATION:Sanya
+DESCRIPTION:Round 11\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r11-sanya-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260620T024000Z
+DTEND:20260620T034800Z
+SUMMARY:FE Sanya E-Prix - Qualifying
+LOCATION:Sanya
+DESCRIPTION:Round 11\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r11-sanya-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260620T070500Z
+DTEND:20260620T080000Z
+SUMMARY:🏁 FE Sanya E-Prix - Race
+LOCATION:Sanya
+DESCRIPTION:Round 11\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sanya E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r12-shanghai-e-prix-free-practice-1@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260703T080000Z
+DTEND:20260703T084000Z
+SUMMARY:FE Shanghai E-Prix - Free Practice 1
+LOCATION:Shanghai
+DESCRIPTION:Round 12\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r12-shanghai-e-prix-free-practice-2@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260704T003000Z
+DTEND:20260704T011000Z
+SUMMARY:FE Shanghai E-Prix - Free Practice 2
+LOCATION:Shanghai
+DESCRIPTION:Round 12\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r12-shanghai-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260704T024000Z
+DTEND:20260704T034800Z
+SUMMARY:FE Shanghai E-Prix - Qualifying
+LOCATION:Shanghai
+DESCRIPTION:Round 12\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r12-shanghai-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260704T070500Z
+DTEND:20260704T080000Z
+SUMMARY:🏁 FE Shanghai E-Prix - Race
+LOCATION:Shanghai
+DESCRIPTION:Round 12\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shanghai E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r13-shanghai-e-prix-free-practice-3@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260705T003000Z
+DTEND:20260705T011000Z
+SUMMARY:FE Shanghai E-Prix - Free Practice 3
+LOCATION:Shanghai
+DESCRIPTION:Round 13\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r13-shanghai-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260705T024000Z
+DTEND:20260705T034800Z
+SUMMARY:FE Shanghai E-Prix - Qualifying
+LOCATION:Shanghai
+DESCRIPTION:Round 13\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r13-shanghai-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260705T070500Z
+DTEND:20260705T080000Z
+SUMMARY:🏁 FE Shanghai E-Prix - Race
+LOCATION:Shanghai
+DESCRIPTION:Round 13\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shanghai E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r14-tokyo-e-prix-free-practice-1@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260724T100000Z
+DTEND:20260724T104000Z
+SUMMARY:FE Tokyo E-Prix - Free Practice 1
+LOCATION:Tokyo
+DESCRIPTION:Round 14\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r14-tokyo-e-prix-free-practice-2@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260725T043000Z
+DTEND:20260725T051000Z
+SUMMARY:FE Tokyo E-Prix - Free Practice 2
+LOCATION:Tokyo
+DESCRIPTION:Round 14\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r14-tokyo-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260725T064000Z
+DTEND:20260725T074800Z
+SUMMARY:FE Tokyo E-Prix - Qualifying
+LOCATION:Tokyo
+DESCRIPTION:Round 14\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r14-tokyo-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260725T110500Z
+DTEND:20260725T120000Z
+SUMMARY:🏁 FE Tokyo E-Prix - Race
+LOCATION:Tokyo
+DESCRIPTION:Round 14\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tokyo E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r15-tokyo-e-prix-free-practice-3@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260726T043000Z
+DTEND:20260726T051000Z
+SUMMARY:FE Tokyo E-Prix - Free Practice 3
+LOCATION:Tokyo
+DESCRIPTION:Round 15\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r15-tokyo-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260726T064000Z
+DTEND:20260726T074800Z
+SUMMARY:FE Tokyo E-Prix - Qualifying
+LOCATION:Tokyo
+DESCRIPTION:Round 15\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r15-tokyo-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260726T110500Z
+DTEND:20260726T120000Z
+SUMMARY:🏁 FE Tokyo E-Prix - Race
+LOCATION:Tokyo
+DESCRIPTION:Round 15\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tokyo E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r16-london-e-prix-free-practice-1@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260814T150000Z
+DTEND:20260814T154000Z
+SUMMARY:FE London E-Prix - Free Practice 1
+LOCATION:London
+DESCRIPTION:Round 16\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r16-london-e-prix-free-practice-2@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260815T073000Z
+DTEND:20260815T081000Z
+SUMMARY:FE London E-Prix - Free Practice 2
+LOCATION:London
+DESCRIPTION:Round 16\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r16-london-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260815T094000Z
+DTEND:20260815T104800Z
+SUMMARY:FE London E-Prix - Qualifying
+LOCATION:London
+DESCRIPTION:Round 16\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r16-london-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260815T140500Z
+DTEND:20260815T150000Z
+SUMMARY:🏁 FE London E-Prix - Race
+LOCATION:London
+DESCRIPTION:Round 16\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:London E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r17-london-e-prix-free-practice-3@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260816T073000Z
+DTEND:20260816T081000Z
+SUMMARY:FE London E-Prix - Free Practice 3
+LOCATION:London
+DESCRIPTION:Round 17\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r17-london-e-prix-qualifying@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260816T094000Z
+DTEND:20260816T104800Z
+SUMMARY:FE London E-Prix - Qualifying
+LOCATION:London
+DESCRIPTION:Round 17\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-2026-r17-london-e-prix-race@lgs-formula-e
+DTSTAMP:20260611T224424Z
+DTSTART:20260816T140500Z
+DTEND:20260816T150000Z
+SUMMARY:🏁 FE London E-Prix - Race
+LOCATION:London
+DESCRIPTION:Round 17\, season 2025-2026. Times auto-convert to your timezone. Auto-synced daily.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:London E-Prix race starts in 1 hour
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
